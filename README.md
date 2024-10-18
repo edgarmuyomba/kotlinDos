@@ -7,6 +7,7 @@ Introduction
 ------------
 
 Dessert Clicker is a game about making desserts.
+Mainly focused on state management techniques in kotlin
 
 Press the button, make a dessert, earn the big bucks.
 
